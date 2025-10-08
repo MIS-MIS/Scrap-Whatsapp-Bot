@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mg6dun87",
+    "type": "daily-csv",
+    "title": "Daily 15:27 (limit 100/day)",
+    "hhmm": "15:27",
+    "message": "",
+    "dailyLimit": 100,
+    "_running": true,
+    "_lastKey": "2025-09-30 15:27"
+  }
+]
